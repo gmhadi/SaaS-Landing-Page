@@ -17,7 +17,7 @@ const Hero = () => {
             </h1>
             
             <p className="body-text mb-8">
-              Saylani Tech helps startups and enterprises design, develop, and 
+              Hadi Tech helps startups and enterprises design, develop, and 
               digitize their operations with reliable software solutions. From 
               custom apps to complete digital transformation.
             </p>
