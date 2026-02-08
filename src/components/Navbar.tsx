@@ -16,11 +16,11 @@ const Navbar = () => {
       <nav className="container-max section-padding !py-4">
         <div className="flex items-center justify-between">
           {/* Logo */}
-          <a href="#" className="flex items-center gap-2">
+          <a href="https://devhadi.vercel.app/" className="flex items-center gap-2">
             <div className="w-8 h-8 bg-primary rounded-lg flex items-center justify-center">
               <span className="text-primary-foreground font-bold text-lg">S</span>
             </div>
-            <span className="text-xl font-bold text-foreground">Saylani Tech</span>
+            <span className="text-xl font-bold text-foreground">Hadi Tech</span>
           </a>
 
           {/* Desktop Navigation */}
