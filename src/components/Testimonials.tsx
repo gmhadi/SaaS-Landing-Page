@@ -3,7 +3,7 @@ import { Star } from "lucide-react";
 const Testimonials = () => {
   const testimonials = [
     {
-      quote: "Saylani Tech transformed our manual processes into a fully automated system. Our operational efficiency increased by 40% within the first month.",
+      quote: "Hadi Tech transformed our manual processes into a fully automated system. Our operational efficiency increased by 40% within the first month.",
       name: "Ahmed Hassan",
       role: "CEO, TechVentures",
       avatar: "AH",
@@ -33,7 +33,7 @@ const Testimonials = () => {
           </h2>
           <p className="body-text">
             Don't just take our word for it. Here's what our clients have to say 
-            about working with Saylani Tech.
+            about working with Hadi Tech.
           </p>
         </div>
 
