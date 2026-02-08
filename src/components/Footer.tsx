@@ -9,10 +9,8 @@ const Footer = () => {
       { name: "Cloud Solutions", href: "#features" },
     ],
     company: [
-      { name: "About Us", href: "https://devhadi.vercel.app/
-" },
-      { name: "Careers", href: "https://devhadi.vercel.app/
-" },
+      { name: "About Us", href: "https://devhadi.vercel.app/" },
+      { name: "Careers", href: "https://devhadi.vercel.app/" },
       { name: "Blog", href: "https://devhadi.vercel.app/" },
       { name: "Contact", href: "#contact" },
     ],
