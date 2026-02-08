@@ -9,15 +9,17 @@ const Footer = () => {
       { name: "Cloud Solutions", href: "#features" },
     ],
     company: [
-      { name: "About Us", href: "#" },
-      { name: "Careers", href: "#" },
-      { name: "Blog", href: "#" },
+      { name: "About Us", href: "https://devhadi.vercel.app/
+" },
+      { name: "Careers", href: "https://devhadi.vercel.app/
+" },
+      { name: "Blog", href: "https://devhadi.vercel.app/" },
       { name: "Contact", href: "#contact" },
     ],
     legal: [
-      { name: "Privacy Policy", href: "#" },
-      { name: "Terms of Service", href: "#" },
-      { name: "Cookie Policy", href: "#" },
+      { name: "Privacy Policy", href: "https://devhadi.vercel.app/" },
+      { name: "Terms of Service", href: "https://devhadi.vercel.app/" },
+      { name: "Cookie Policy", href: "https://devhadi.vercel.app/" },
     ],
   };
 
@@ -88,9 +90,10 @@ const Footer = () => {
           <div>
             <h4 className="font-semibold text-white mb-4">Contact</h4>
             <ul className="space-y-3 text-white/60">
-              <li>contact@saylanitech.com</li>
-              <li>+1 (234) 567-890</li>
-              <li>123 Tech Street<br />Silicon Valley, CA 94000</li>
+              <li>maihadihoon@gmail.com
+</li>
+              <li>+92 3110017742</li>
+              <li>Quetta<br />Balouchistan, Pakistan</li>
             </ul>
           </div>
         </div>
@@ -98,7 +101,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="mt-12 pt-8 border-t border-white/10 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-white/60 text-sm">
-            © {currentYear} Saylani Tech. All rights reserved.
+            © {currentYear} Hadi Tech. All rights reserved.
           </p>
           <div className="flex gap-6">
             {links.legal.map((link) => (
