@@ -31,7 +31,7 @@ const Footer = () => {
               <div className="w-8 h-8 bg-primary rounded-lg flex items-center justify-center">
                 <span className="text-primary-foreground font-bold text-lg">S</span>
               </div>
-              <span className="text-xl font-bold text-white">Saylani Tech</span>
+              <span className="text-xl font-bold text-white">Hadi Tech</span>
             </a>
             <p className="text-white/60 mb-6 max-w-sm">
               Building scalable software solutions that help businesses grow and 
